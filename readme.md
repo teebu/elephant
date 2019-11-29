@@ -1,0 +1,1 @@
+![pink elephant](pink_render.png)
